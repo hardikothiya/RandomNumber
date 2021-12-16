@@ -15,7 +15,7 @@ class homepage extends StatelessWidget {
               title:const Text("my app"),
             ),
           body:  Center(
-            child: Text('dhdhdh =${randomNumber()}'),
+            child: Text('randomNumber =${randomNumber()}'),
           ),
         ),
 
